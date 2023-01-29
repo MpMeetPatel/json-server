@@ -1,13 +1,14 @@
 {
   "author": [
-    "success": true,
     {
+      "success": true,
       "data": {
         "authorId": 1,
         "name": "Charlie Chaplin"
       }
     },
     {
+      "success": true,
       "data": {
         "authorId": 2,
         "name": "John Doe"
@@ -15,8 +16,8 @@
     }
   ],
   "quote": [
-    "success": true,
     {
+      "success": true,
       "data": {
         "quoteId": 1,
         "authorId": 1,
@@ -24,9 +25,10 @@
       }
     },
     {
+      "success": true,
       "data": {
-        "quoteId": 2,
-        "authorId": 2,
+        "quoteId": 1,
+        "authorId": 1,
         "quote": "A day without laughter is a day wasted."
       }
     }
@@ -38,20 +40,22 @@
     }
   },
   "profile": [
-    "success": true,
     {
+      "success": true,
       "data": {
         "name": "user1",
         "token": "fb566635a66295da0c8ad3f467c32dcf"
       }
     },
     {
+      "success": true,
       "data": {
         "name": "user2",
         "token": "hb566635a66295da0c8ad3f467c32dcf"
       }
     },
     {
+      "success": true,
       "data": {
         "name": "user3",
         "token": "gb566635a66295da0c8ad3f467c32dcf"
